@@ -7,7 +7,7 @@ Game Developer
 Highly proficient 17yo Game Developer bringing history of utilizing the latest technologies to create exciting games. Highly energetic professional with little over 1 years of experience and meticulous eye for detail. Thorough understanding of gaming trends combined with expertise in various programming languages.
 
 * 🌍  I'm based in Helsinki, Finland
-* 🖥️  See my portfolio at [hamburjare](http://hamburjare.github.io)
+* 🖥️  See my portfolio at [hamburjare](http://hamburjare.tech)
 * ✉️  You can contact me at [hamburjare@hotmail.com](mailto:hamburjare@hotmail.com)
 * 🧠  I'm learning to use various cool game development skills
 * 🤝  I'm open to collaborating on interesting projects that will change game world
