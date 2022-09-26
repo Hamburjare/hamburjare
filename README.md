@@ -56,6 +56,8 @@ I'm a game developer with a passion for programming. All projects are build from
 </a>
 </p>
 
+# 
+
 ### 💬 Socials
 
 <p align="left">
@@ -82,6 +84,8 @@ I'm a game developer with a passion for programming. All projects are build from
     <img src="https://raw.githubusercontent.com/Hamburjare/hamburjare/main/unity-white.svg" width="32" height="32" />
 </a>
 </p>
+
+# 
 
 ### 🏆 Badges
 
