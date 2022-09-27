@@ -63,25 +63,25 @@ I'm a indie game developer with a passion for programming. All projects are buil
 <p align="left">
 
 <a href="https://www.github.com/hamburjare" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" />
+    <img src="https://raw.githubusercontent.com/Hamburjare/hamburjare/main/svg/socials/github-dark.svg" width="32" height="32" />
 </a>
 <a href="https://www.linkedin.com/in/kallesuikkari" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" />
+    <img src="https://raw.githubusercontent.com/Hamburjare/hamburjare/main/svg/socials/linkedin.svg" width="32" height="32" />
 </a>
 <a href="https://www.stackoverflow.com/users/18073076/hamburjare" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" />
+    <img src="https://raw.githubusercontent.com/Hamburjare/hamburjare/main/svg/socials/stackoverflow.svg" width="32" height="32" />
 </a>
 <a href="https://www.twitter.com/hamburjare" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" />
+    <img src="https://raw.githubusercontent.com/Hamburjare/hamburjare/main/svg/socials/twitter.svg" width="32" height="32" />
 </a>
 <a href="https://www.twitch.tv/hamburjare" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitch.svg" width="32" height="32" />
+    <img src="https://raw.githubusercontent.com/Hamburjare/hamburjare/main/svg/socials/twitch.svg" width="32" height="32" />
 </a>
 <a href="https://hamburjare.itch.io/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/Hamburjare/hamburjare/main/itch-red.svg" width="32" height="32" />
+    <img src="https://raw.githubusercontent.com/Hamburjare/hamburjare/main/svg/socials/itch-red.svg" width="32" height="32" />
 </a>
 <a href="https://play.unity.com/u/Hamburjare" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/Hamburjare/hamburjare/main/unity-white.svg" width="32" height="32" />
+    <img src="https://raw.githubusercontent.com/Hamburjare/hamburjare/main/svg/unity-white.svg" width="32" height="32" />
 </a>
 </p>
 
