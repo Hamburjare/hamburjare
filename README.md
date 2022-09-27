@@ -31,7 +31,7 @@ I'm a indie game developer with a passion for programming. All projects are buil
     <img src="https://raw.githubusercontent.com/Hamburjare/hamburjare/main/svg/csharp-colored.svg" width="36" height="36" alt="C#" />
 </a>
 <a href="https://unity.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/Hamburjare/hamburjare/main/unity-white.svg" width="36" height="36" alt="Unity" />
+    <img src="https://raw.githubusercontent.com/Hamburjare/hamburjare/main/svg/unity-white.svg" width="36" height="36" alt="Unity" />
 </a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/Hamburjare/hamburjare/main/svg/javascript-colored.svg" width="36" height="36" alt="JavaScript" />
