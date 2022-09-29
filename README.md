@@ -36,6 +36,12 @@ I'm a indie game developer with a passion for programming. All projects are buil
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/Hamburjare/hamburjare/main/svg/javascript-colored.svg" width="36" height="36" alt="JavaScript" />
 </a>
+<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/Hamburjare/hamburjare/main/svg/typecript-colored.svg" width="36" height="36" alt="JavaScript" />
+</a>
+<a href="https://www.lua.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/Hamburjare/hamburjare/main/svg/lua.svg" width="36" height="36" alt="JavaScript" />
+</a>
 <a href="https://www.python.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/Hamburjare/hamburjare/main/svg/python-colored.svg" width="36" height="36" alt="Python" />
 </a>
