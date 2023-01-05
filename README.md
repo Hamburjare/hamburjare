@@ -36,12 +36,9 @@ I'm a indie game developer with a passion for programming. All projects are buil
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/Hamburjare/hamburjare/main/svg/javascript-colored.svg" width="36" height="36" alt="JavaScript" />
 </a>
-<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/Hamburjare/hamburjare/main/svg/typescript-colored.svg" width="36" height="36" alt="JavaScript" />
-</a>
-<a href="https://www.lua.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/Hamburjare/hamburjare/main/svg/lua.svg" width="36" height="36" alt="JavaScript" />
-</a>
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/Hamburjare/hamburjare/main/svg/mysql-colored.svg" width="36" height="36" alt="JavaScript" />
+</a>  
 <a href="https://www.python.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/Hamburjare/hamburjare/main/svg/python-colored.svg" width="36" height="36" alt="Python" />
 </a>
@@ -122,6 +119,6 @@ I'm a indie game developer with a passion for programming. All projects are buil
     <img src="https://github-readme-stats.vercel.app/api?username=hamburjare&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="hamburjare's GitHub stats" />
 </a>
 <a href="http://www.github.com/hamburjare">
-    <img src="https://activity-graph.herokuapp.com/graph?username=hamburjare&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" />
+    <img src="https://github-readme-activity-graph.cyclic.app/graph?username=Ashutosh00710&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" />
 </a>
 <!-- https://profileme.dev/ -->
