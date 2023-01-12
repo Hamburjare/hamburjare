@@ -48,6 +48,12 @@ I'm a indie game developer with a passion for programming. All projects are buil
 <a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/Hamburjare/hamburjare/main/svg/css3-colored.svg" width="36" height="36" alt="CSS3" />
 </a>
+<a href="https://www.docker.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/Hamburjare/hamburjare/main/svg/docker.svg" width="36" height="36" alt="CSS3" />
+</a>
+<a href="https://www.php.net/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/Hamburjare/hamburjare/main/svg/php-colored.svg" width="36" height="36" alt="CSS3" />
+</a>
 <a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/Hamburjare/hamburjare/main/svg/photoshop-colored.svg" width="36" height="36" alt="Photoshop" />
 </a>
