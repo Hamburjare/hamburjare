@@ -121,7 +121,7 @@ I'm a indie game developer with a passion for programming. All projects are buil
 <a href="https://github.com/hamburjare" align="right">
     <img src="https://raw.githubusercontent.com/Hamburjare/github-stats/master/generated/languages.svg#gh-dark-mode-only" alt="Top Languages" />
 </a>
-<a href="http://www.github.com/hamburjare" align="left">
+<a href="https://github.com/hamburjare" align="left">
     <img src="https://raw.githubusercontent.com/Hamburjare/github-stats/master/generated/overview.svg#gh-dark-mode-only" alt="hamburjare's GitHub stats" />
 </a>
 <!-- <a href="http://www.github.com/hamburjare">
