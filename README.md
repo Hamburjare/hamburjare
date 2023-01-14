@@ -124,7 +124,7 @@ I'm a indie game developer with a passion for programming. All projects are buil
 <a href="http://www.github.com/hamburjare" align="left">
     <img src="https://raw.githubusercontent.com/Hamburjare/github-stats/master/generated/overview.svg#gh-dark-mode-only" alt="hamburjare's GitHub stats" />
 </a>
-<a href="http://www.github.com/hamburjare">
+<!-- <a href="http://www.github.com/hamburjare">
     <img src="https://github-readme-activity-graph.cyclic.app/graph?username=Ashutosh00710&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" />
-</a>
+</a> -->
 <!-- https://profileme.dev/ -->
