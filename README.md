@@ -4,7 +4,8 @@
 
 I'm a indie game developer with a passion for programming. All projects are build from the ground up, from planning and design to implementation and testing. I'm a fast learner, and I'm always looking for new challenges. I'm currently in search of a new position as a game developer/programmer.
 
-- 🌍 I'm based in Helsinki, Finland
+<!-- - 🌍 I'm based in Helsinki, Finland -->
+- 🌍 I'm based in Finland
 - 🖥️ See my portfolio at [hamburjare](http://hamburjare.tech)
 - ✉️ You can contact me at [hamburjare@hotmail.com](mailto:hamburjare@hotmail.com)
 - 🧠 I'm currently learning to use various cool game development skills
