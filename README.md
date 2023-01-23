@@ -12,9 +12,9 @@ I'm a indie game developer with a passion for programming. All projects are buil
 - 🤝 I'm open to collaborating on interesting projects that will change game world
 - ⚡ I'm next Bill Gates
 
-<a href="https://www.twitter.com/hamburjare" target="_blank" rel="noreferrer">
+<!-- <a href="https://www.twitter.com/hamburjare" target="_blank" rel="noreferrer">
     <img src="https://custom-icon-badges.demolab.com/twitter/follow/hamburjare?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"/>
-</a>
+</a> -->
 <a href="https://www.github.com/hamburjare" target="_blank" rel="noreferrer">
     <img src="https://custom-icon-badges.demolab.com/github/followers/hamburjare?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917"/>
 </a>
