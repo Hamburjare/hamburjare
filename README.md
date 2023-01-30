@@ -6,7 +6,7 @@ I'm a indie game developer with a passion for programming. All projects are buil
 
 > **Digital Craftsman (Game Developer / Back-End Developer)**
 
-I'm a indie game developer / back-end developer with a passion for programming. All projects are build from the ground up, from planning and design to implementation and testing all the way to solving real-life problems with code. I'm a fast learner, and I'm always looking for new challenges.
+I'm a indie developer with a passion for programming. All projects are build from the ground up, from planning and design to implementation and testing all the way to solving real-life problems with code. I'm a fast learner, and I'm always looking for new challenges.
 
 <!-- - 🌍 I'm based in Helsinki, Finland -->
 - 🌍 I'm based in Finland
