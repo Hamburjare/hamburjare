@@ -38,7 +38,10 @@ I'm a indie game developer with a passion for programming. All projects are buil
     <img src="https://raw.githubusercontent.com/Hamburjare/hamburjare/main/svg/javascript-colored.svg" width="36" height="36" alt="JavaScript" />
 </a>
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/Hamburjare/hamburjare/main/svg/mysql-colored.svg" width="36" height="36" alt="JavaScript" />
+    <img src="https://raw.githubusercontent.com/Hamburjare/hamburjare/main/svg/mysql-colored.svg" width="36" height="36" alt="MySQL" />
+</a>  
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/Hamburjare/hamburjare/main/svg/git.svg" width="36" height="36" alt="Git" />
 </a>  
 <a href="https://www.python.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/Hamburjare/hamburjare/main/svg/python-colored.svg" width="36" height="36" alt="Python" />
