@@ -4,7 +4,7 @@
 
 I'm a indie game developer with a passion for programming. All projects are build from the ground up, from planning and design to implementation and testing. I'm a fast learner, and I'm always looking for new challenges. I'm currently in search of a new position as a game developer/programmer. -->
 
-> **Digital Craftsman (Game Developer / Back-End Developer)**
+> **Digital Craftsman (Game Developer / Software Developer)**
 
 I'm a indie developer with a passion for programming. All projects are build from the ground up, from planning and design to implementation and testing all the way to solving real-life problems with code. I'm a fast learner, and I'm always looking for new challenges.
 
