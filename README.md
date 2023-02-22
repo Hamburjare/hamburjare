@@ -13,7 +13,7 @@ I'm a indie developer with a passion for programming. All projects are build fro
 - 🖥️ See my portfolio at [hamburjare](http://hamburjare.tech)
 - ✉️ You can contact me at [hamburjare@hotmail.com](mailto:hamburjare@hotmail.com)
 - 🧠 I'm currently learning to become better developer
-- 🤝 I'm open to collaborating on interesting projects that will change game world
+- 🤝 I'm open to collaborating on interesting projects that will change the world
 - ⚡ I'm next Bill Gates
 
 <!-- <a href="https://www.twitter.com/hamburjare" target="_blank" rel="noreferrer">
