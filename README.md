@@ -8,9 +8,8 @@ I'm a indie game developer with a passion for programming. All projects are buil
 
 I'm a Software Engineer with a passion for programming. All projects are build from the ground up, from planning and design to implementation and testing all the way to solving real-life problems with code. I'm a fast learner, and I'm always looking for new challenges.
 
-<!-- - 🌍 I'm based in Helsinki, Finland -->
-- 🌍 I'm based in Finland
-- 🖥️ See my portfolio at [hamburjare](http://hamburjare.tech)
+<!-- - 🌍 I'm based in Helsinki, Finland - 🖥️ See my portfolio at [hamburjare](http://hamburjare.tech) -->
+- 🌍 I'm based in Finland 
 - ✉️ You can contact me at [hamburjare@hotmail.com](mailto:hamburjare@hotmail.com)
 - 🧠 I'm currently learning to become better developer
 - 🤝 I'm open to collaborating on interesting projects that will change the world
