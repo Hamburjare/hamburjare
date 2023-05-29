@@ -43,9 +43,6 @@ I'm a Software Engineer with a passion for programming. All projects are build f
 <a href="https://nodejs.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/Hamburjare/hamburjare/main/svg/nodejs-colored.svg" width="36" height="36" alt="JavaScript" />
 </a>
-<a href="https://vitejs.dev/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/Hamburjare/hamburjare/main/svg/vitejs-colored.svg" width="36" height="36" alt="JavaScript" />
-</a>
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/Hamburjare/hamburjare/main/svg/mysql-colored.svg" width="36" height="36" alt="MySQL" />
 </a>  
