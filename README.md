@@ -13,7 +13,7 @@ I'm a Software Engineer with a passion for programming. All projects are build f
 - ✉️ You can contact me at [hamburjare@hotmail.com](mailto:hamburjare@hotmail.com)
 - 🧠 I'm currently learning to become better developer
 - 🤝 I'm open to collaborating on interesting projects that will change the world
-- ⚡ I'm next Jeff Bezos
+- ⚡ I'm next Mark Zuckerberg
 
 <!-- <a href="https://www.twitter.com/hamburjare" target="_blank" rel="noreferrer">
     <img src="https://custom-icon-badges.demolab.com/twitter/follow/hamburjare?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"/>
