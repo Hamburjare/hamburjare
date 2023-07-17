@@ -1,17 +1,17 @@
-# 🏂 Kalle Suikkari | Hamburjare
+# 🏂 Kalle Suikkari
 
-<!-- > **Digital Craftsman (Game Developer / Programmer)**
+> **Digital Craftsman (Game Developer / Programmer)**
 
-I'm a indie game developer with a passion for programming. All projects are build from the ground up, from planning and design to implementation and testing. I'm a fast learner, and I'm always looking for new challenges. I'm currently in search of a new position as a game developer/programmer. -->
+I'm a indie game developer with a passion for programming. All projects are build from the ground up, from planning and design to implementation and testing. I'm a fast learner, and I'm always looking for new challenges.
 
-> **Digital Craftsman (Game Developer / Software Developer)**
+<!-- > **Digital Craftsman (Game Developer / Software Developer)**
 
-I'm a Software Engineer with a passion for programming. All projects are build from the ground up, from planning and design to implementation and testing all the way to solving real-life problems with code. I'm a fast learner, and I'm always looking for new challenges.
+I'm a Software Engineer with a passion for programming. All projects are build from the ground up, from planning and design to implementation and testing all the way to solving real-life problems with code. I'm a fast learner, and I'm always looking for new challenges. -->
 
 <!-- - 🌍 I'm based in Helsinki, Finland - 🖥️ See my portfolio at [hamburjare](http://hamburjare.tech) -->
 - 🌍 I'm based in Finland 
 - ✉️ You can contact me at [hamburjare@hotmail.com](mailto:hamburjare@hotmail.com)
-- 🧠 I'm currently learning to become better developer
+- 🧠 I'm seeking to network with professionals, become a mentor, and eventually lead a team.
 - 🤝 I'm open to collaborating on interesting projects that will change the world
 - ⚡ I'm next Jeff Bezos
 
