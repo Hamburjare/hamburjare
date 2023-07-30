@@ -1,8 +1,8 @@
 # 🏂 Kalle Suikkari
 
-> **Digital Craftsman (Game Developer / Programmer)**
+> **Digital Craftsman (Software Developer / Programmer)**
 
-I'm a indie game developer with a passion for programming. All projects are build from the ground up, from planning and design to implementation and testing. I'm a fast learner, and I'm always looking for new challenges.
+I'm a indie Software developer with a passion for programming. All projects are build from the ground up, from planning and design to implementation and testing. I'm a fast learner, and I'm always looking for new challenges.
 
 <!-- > **Digital Craftsman (Game Developer / Software Developer)**
 
