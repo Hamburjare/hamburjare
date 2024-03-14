@@ -73,7 +73,7 @@ I'm a Software Engineer with a passion for programming. All projects are build f
 <a href="https://laravel.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/Hamburjare/hamburjare/main/svg/laravel-colored.svg" width="36" height="36" alt="Laravel" />
 </a>
-<a href="hhttps://vuejs.org/" target="_blank" rel="noreferrer">
+<a href="https://vuejs.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/Hamburjare/hamburjare/main/svg/vuejs-colored.svg" width="36" height="36" alt="Vue JS" />
 </a>
 <a href="https://wordpress.com/" target="_blank" rel="noreferrer">
