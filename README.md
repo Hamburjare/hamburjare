@@ -41,13 +41,13 @@ I'm a Software Engineer with a passion for programming. All projects are build f
     <img src="https://raw.githubusercontent.com/Hamburjare/hamburjare/main/svg/javascript-colored.svg" width="36" height="36" alt="JavaScript" />
 </a>
 <a href="https://nodejs.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/Hamburjare/hamburjare/main/svg/nodejs-colored.svg" width="36" height="36" alt="JavaScript" />
+    <img src="https://raw.githubusercontent.com/Hamburjare/hamburjare/main/svg/nodejs-colored.svg" width="36" height="36" alt="Node JS" />
 </a>
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/Hamburjare/hamburjare/main/svg/mysql-colored.svg" width="36" height="36" alt="MySQL" />
 </a>  
 <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/Hamburjare/hamburjare/main/svg/mongodb-colored.svg" width="36" height="36" alt="MySQL" />
+    <img src="https://raw.githubusercontent.com/Hamburjare/hamburjare/main/svg/mongodb-colored.svg" width="36" height="36" alt="MongoDB" />
 </a>  
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/Hamburjare/hamburjare/main/svg/git.svg" width="36" height="36" alt="Git" />
@@ -56,7 +56,7 @@ I'm a Software Engineer with a passion for programming. All projects are build f
     <img src="https://raw.githubusercontent.com/Hamburjare/hamburjare/main/svg/python-colored.svg" width="36" height="36" alt="Python" />
 </a>
 <a href="https://react.dev/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/Hamburjare/hamburjare/main/svg/react-colored.svg" width="36" height="36" alt="Python" />
+    <img src="https://raw.githubusercontent.com/Hamburjare/hamburjare/main/svg/react-colored.svg" width="36" height="36" alt="React JS" />
 </a>
 <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/Hamburjare/hamburjare/main/svg/html5-colored.svg" width="36" height="36" alt="HTML5" />
@@ -65,19 +65,19 @@ I'm a Software Engineer with a passion for programming. All projects are build f
     <img src="https://raw.githubusercontent.com/Hamburjare/hamburjare/main/svg/css3-colored.svg" width="36" height="36" alt="CSS3" />
 </a>
 <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/Hamburjare/hamburjare/main/svg/docker.svg" width="36" height="36" alt="CSS3" />
+    <img src="https://raw.githubusercontent.com/Hamburjare/hamburjare/main/svg/docker.svg" width="36" height="36" alt="Docker" />
 </a>
 <a href="https://www.php.net/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/Hamburjare/hamburjare/main/svg/php-colored.svg" width="36" height="36" alt="CSS3" />
+    <img src="https://raw.githubusercontent.com/Hamburjare/hamburjare/main/svg/php-colored.svg" width="36" height="36" alt="PHP" />
 </a>
-<a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/Hamburjare/hamburjare/main/svg/photoshop-colored.svg" width="36" height="36" alt="Photoshop" />
+<a href="https://laravel.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/Hamburjare/hamburjare/main/svg/laravel-colored.svg" width="36" height="36" alt="Laravel" />
 </a>
-<a href="https://www.adobe.com/uk/products/premiere.html" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/Hamburjare/hamburjare/main/svg/premierepro-colored.svg" width="36" height="36" alt="Premiere Pro" />
+<a href="hhttps://vuejs.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/Hamburjare/hamburjare/main/svg/vuejs-colored.svg" width="36" height="36" alt="Vue JS" />
 </a>
-<a href="https://www.adobe.com/uk/products/xd.html" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/Hamburjare/hamburjare/main/svg/xd-colored.svg" width="36" height="36" alt="XD" />
+<a href="https://wordpress.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/Hamburjare/hamburjare/main/svg/wordpress.svg" width="36" height="36" alt="Wordpress" />
 </a>
 </p>
 
