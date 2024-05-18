@@ -96,12 +96,6 @@ I'm a Software Engineer with a passion for programming. All projects are build f
 <a href="https://www.stackoverflow.com/users/18073076/hamburjare" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/Hamburjare/hamburjare/main/svg/socials/stackoverflow.svg" width="32" height="32" />
 </a>
-<a href="https://www.twitter.com/hamburjare" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/Hamburjare/hamburjare/main/svg/socials/twitter.svg" width="32" height="32" />
-</a>
-<a href="https://www.twitch.tv/hamburjare" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/Hamburjare/hamburjare/main/svg/socials/twitch.svg" width="32" height="32" />
-</a>
 <a href="https://hamburjare.itch.io/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/Hamburjare/hamburjare/main/svg/socials/itch-red.svg" width="32" height="32" />
 </a>
