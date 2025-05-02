@@ -113,13 +113,13 @@ I'm a Software Engineer with a passion for programming. All projects are build f
 <p align="left">
 
 <a href="https://www.credly.com/badges/54e29f50-ba7c-444c-ba8f-ca6697edcb3a/public_url" target="_blank" rel="noreferrer">
-    <img src="https://images.credly.com/images/2ebece18-451f-4f69-868a-9b5edac57567/image.png" width="128" height="128" />
+    <img src="https://raw.githubusercontent.com/Hamburjare/hamburjare/main/images/Unity Essentials.png" width="128" height="128" />
 </a>
 <a href="https://www.credly.com/badges/0bc5dbd8-00d7-40e1-8b02-74cd89e1739c/public_url" target="_blank" rel="noreferrer">
-    <img src="https://images.credly.com/images/03d1c2f6-6182-49bd-b5af-2ef6d28b5383/image.png" width="128" height="128" />
+    <img src="https://raw.githubusercontent.com/Hamburjare/hamburjare/main/images/Junior Programmer.png" width="128" height="128" />
 </a>
 <a href="https://www.credly.com/badges/b83d9e71-b3f7-402a-b18f-5959777156de/public_url" target="_blank" rel="noreferrer">
-    <img src="https://images.credly.com/images/24c48b7e-6c7b-4763-91e7-379565ba4e42/image.png" width="128" height="128" />
+    <img src="https://raw.githubusercontent.com/Hamburjare/hamburjare/main/images/Creative Core.png" width="128" height="128" />
 </a>
 
 </p>
